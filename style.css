@@ -59,10 +59,10 @@ body
 }
 .card .user .imgBx img
 {
-position: absolute;
-width: 100%;
-height: 100%;
-object-fit: cover;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
 .card .user .content
 {
@@ -185,5 +185,5 @@ object-fit: cover;
 }
 .card .contact li a:hover p
 {
-color: #111;
+    color: #111;
 }
